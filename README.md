@@ -1,6 +1,5 @@
 # AutoBinusAccess
 Binus Access Auto Connect for Binusian
-by willhendyan (willhendyan.lim@gmail.com)
 
 Features:
 - login (auto repeat if RADIUS server is not responding)
